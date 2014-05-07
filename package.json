@@ -1,0 +1,14 @@
+{
+  "name": "stretch",
+  "version": "0.0.0",
+  "description": "Stretch out the contents of an array like a rubber band",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "main": "./stretch.js",
+  "scripts": {
+    "test": "for f in test/*; do echo \"$f\"; node \"$f\" || exit 1; done; echo Passed; exit 0"
+  },
+  "repository": "git://github.com/bahamas10/node-stretch.git",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
