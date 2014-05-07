@@ -11,7 +11,7 @@ Install
 Example
 -------
 
-```
+``` js
 > var stretch = require('./')
 
 > stretch(['cat', 'dog'], 4)
